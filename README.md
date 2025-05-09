@@ -116,7 +116,7 @@ Contributions are welcome! To contribute:
 Please ensure your code follows Python PEP 8 style guidelines and includes appropriate documentation.
 
 ### License
-This project is licensed under the MIT License. See the  file for details.
+This project is licensed under the MIT License, a permissive open-source license that allows you to use, modify, and distribute the code freely, as long as the copyright notice and permission notice are included. See the [LICENSE](LICENSE) file for details.
 
 ### Acknowledgements
 - Built with Python and Tkinter.
