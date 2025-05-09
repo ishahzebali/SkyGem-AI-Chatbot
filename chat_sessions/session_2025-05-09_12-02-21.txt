@@ -1,0 +1,4 @@
+2025-05-09 12:05:26|user|hi
+2025-05-09 12:05:26|bot|Hi! Nice to see you!
+2025-05-09 12:05:50|user|what is the weather in dubai
+2025-05-09 12:05:50|bot|The weather in Dubai is 30.96°C with clear sky.
